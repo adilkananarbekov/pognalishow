@@ -15,7 +15,7 @@ npm run dev
 
 Деплой идёт workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) при пуше в ветку `main`.
 
-Сайт настроен под **кастомный домен в корне**: **`https://adilkan.com/`**. В `vite.config.ts` задано `base: '/'`, а в `src/App.tsx` `BrowserRouter` работает без `basename`.
+Сайт настроен как **project Pages в подкаталоге домена**: **`https://adilkan.com/pognalishow/`**. В `vite.config.ts` задано `base: '/pognalishow/'`, а в `src/App.tsx` `BrowserRouter` использует `basename="/pognalishow"`.
 
 ### 1. Включить Pages
 
