@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
+// Project Pages URL: https://adilkan.com/pognalishow/ (or user.github.io/pognalishow/)
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  // Root URL for custom domain (adilkan.com) on GitHub Pages
-  base: '/',
+  base: '/pognalishow/',
 })
