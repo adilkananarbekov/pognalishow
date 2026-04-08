@@ -15,9 +15,7 @@ npm run dev
 
 Деплой идёт workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) при пуше в ветку `main`.
 
-Сайт рассчитан на **project Pages**: публичный URL вида **`https://adilkan.com/pognalishow/`** (или `https://<user>.github.io/pognalishow/`). В `vite.config.ts` задано `base: '/pognalishow/'`, чтобы JS/CSS грузились с правильного пути — иначе при открытии подкаталога страница остаётся белой.
-
-Если позже перенесёте сайт в **корень** домена (`https://adilkan.com/`), поменяйте `base` на `'/'` и уберите `basename` у `BrowserRouter` в `src/App.tsx`.
+Сайт настроен под **кастомный домен в корне**: **`https://adilkan.com/`**. В `vite.config.ts` задано `base: '/'`, а в `src/App.tsx` `BrowserRouter` работает без `basename`.
 
 ### 1. Включить Pages
 
