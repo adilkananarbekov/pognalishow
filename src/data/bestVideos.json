@@ -1,0 +1,30 @@
+[
+  {
+    "id": "v1",
+    "title": "Экспедиция в заброшенный объект",
+    "duration": "42:18",
+    "cover": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=640&h=360&fit=crop",
+    "youtubeId": "jNQXAC9IVRw"
+  },
+  {
+    "id": "v2",
+    "title": "Ночь в пустом здании",
+    "duration": "38:05",
+    "cover": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=640&h=360&fit=crop",
+    "youtubeId": "jNQXAC9IVRw"
+  },
+  {
+    "id": "v3",
+    "title": "История, от которой мурашки",
+    "duration": "51:12",
+    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&h=360&fit=crop",
+    "youtubeId": "jNQXAC9IVRw"
+  },
+  {
+    "id": "v4",
+    "title": "Совместный выпуск: разговор без монтажа",
+    "duration": "29:44",
+    "cover": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=640&h=360&fit=crop",
+    "youtubeId": "jNQXAC9IVRw"
+  }
+]

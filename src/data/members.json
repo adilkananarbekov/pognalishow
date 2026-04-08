@@ -1,0 +1,98 @@
+[
+  {
+    "id": "maslennikov",
+    "name": "Дмитрий Масленников",
+    "role": "Лидер, ведущий канала",
+    "description": "Основатель канала, инициатор экспедиций в заброшенные места и мистические расследования.",
+    "status": "В эфире",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/@maslennikov",
+      "telegram": "https://t.me/maslennikovliga",
+      "instagram": "https://instagram.com/maslennikov"
+    },
+    "stats": [
+      { "label": "Экспедиции", "value": "50+" },
+      { "label": "Подписчики", "value": "миллионы" }
+    ]
+  },
+  {
+    "id": "klava",
+    "name": "Клава Кока",
+    "role": "Певица, совместные проекты",
+    "description": "Партнёрша Дмитрия; по данным СМИ, пара объявила о помолвке 3 апреля 2026 года.",
+    "status": "Помолвка",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/@klavakoka",
+      "telegram": "https://t.me/klavakoka",
+      "instagram": "https://instagram.com/klavakoka"
+    },
+    "stats": [
+      { "label": "Совместные ролики", "value": "—" },
+      { "label": "Цитата", "value": "«Мы женимся»" }
+    ]
+  },
+  {
+    "id": "danik",
+    "name": "Даник",
+    "role": "Исследователь",
+    "description": "Постоянный участник экспедиций и ночных выездов.",
+    "status": "В составе",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/",
+      "telegram": "https://t.me/",
+      "twitch": "https://twitch.tv/"
+    }
+  },
+  {
+    "id": "super-stas",
+    "name": "Супер Стас",
+    "role": "Эксперт по выживанию",
+    "description": "Помогает команде в экстремальных условиях.",
+    "status": "В составе",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/",
+      "telegram": "https://t.me/",
+      "instagram": "https://instagram.com/"
+    }
+  },
+  {
+    "id": "yayana",
+    "name": "Яяна",
+    "role": "Аналитик",
+    "description": "Сопровождает расследования и разбирает истории.",
+    "status": "В составе",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/",
+      "telegram": "https://t.me/"
+    }
+  },
+  {
+    "id": "egorik",
+    "name": "Егорик",
+    "role": "Скептик / оператор",
+    "description": "Видеосъёмка и скептический взгляд на происходящее.",
+    "status": "В составе",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/",
+      "telegram": "https://t.me/"
+    }
+  },
+  {
+    "id": "sudar",
+    "name": "Сударь",
+    "role": "Атмосфера и юмор",
+    "description": "Добавляет лёгкости и шуток в тяжёлые экспедиции.",
+    "status": "В составе",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=500&fit=crop",
+    "links": {
+      "youtube": "https://youtube.com/",
+      "telegram": "https://t.me/"
+    }
+  }
+]

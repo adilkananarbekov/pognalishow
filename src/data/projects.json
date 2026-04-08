@@ -1,0 +1,23 @@
+[
+  {
+    "id": "abandoned-hospital",
+    "title": "Abandoned hospital",
+    "description": "Ночной заход в заброшенную больницу: коридоры, шёпот, следы прошлого.",
+    "cover": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=450&fit=crop",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+  },
+  {
+    "id": "haunted-forest",
+    "title": "Haunted Forest",
+    "description": "Лесная экспедиция с непонятными звуками и историями местных.",
+    "cover": "https://images.unsplash.com/photo-1448375240586-882707db8881?w=800&h=450&fit=crop",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+  },
+  {
+    "id": "industrial-zone",
+    "title": "Industrial zone",
+    "description": "Заброшенный завод: лифты, подвалы и следы человеческой активности.",
+    "cover": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=450&fit=crop",
+    "youtubeUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+  }
+]
